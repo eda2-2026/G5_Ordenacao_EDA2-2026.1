@@ -46,6 +46,10 @@ Build system: **CMake**<br>
 
 ### Documetações do projeto
 
+#### Diagrama UML do Projeto
+
+![diagrama-uml](assets/diagrama-uml-merge-sort.png)
+
 ...
 ...
 
