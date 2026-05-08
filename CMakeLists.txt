@@ -11,7 +11,19 @@ add_executable(G5_Ordenacao_EDA2_2026_1
         src/RadixSort.h
         src/MergeSort.h
         src/DataManager.h
-        src/PerformerTimer.h)
+        src/PerformerTimer.h
+        tests/TestRadixSort.cpp
+        tests/TestMergeSort.cpp)
+
+add_executable(TestRadixSort
+        tests/TestRadixSort.cpp
+        src/RadixSort.h
+        src/DataManager.h)
+
+add_executable(TestMergeSort
+        tests/TestMergeSort.cpp
+        src/MergeSort.h
+        src/DataManager.h)
  
 find_package(Threads REQUIRED)
 target_link_libraries(G5_Ordenacao_EDA2_2026_1 Threads::Threads)
