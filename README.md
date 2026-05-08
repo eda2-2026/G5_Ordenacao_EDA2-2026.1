@@ -77,6 +77,22 @@ Quantos nomes deseja gerar? 50000
 
 ![UML_Diagram](assets/UML_Diagrams.png)
 
+### Desempenho
+
+![Desempenho Radix e Merge](assets/grafico-benchmark-radix-merge.png)
+
+Os gráficos também estão representados de forma separada, e podem ser vistos em:
+
+[Gráfico de benchmark do Radix Sort](assets/grafico-benchmark-radix.png)
+
+[Gráfico de benchmark do Parallel Merge Sort](assets/grafico-benchmark-merge.png)
+
+Os dados com os valores exatos utilizados nos gráficos estão presentes nos arquivos:
+
+[Benchmark Radix Sort](benchmarks/benchmark-radix-sort.csv)
+
+[Benchmark Parallel Merge Sort](benchmarks/benchmark-merge-sort.csv)
+
 ### Complexidade
 
 | Algoritmo | Melhor caso | Caso médio | Pior caso | Espaço |
