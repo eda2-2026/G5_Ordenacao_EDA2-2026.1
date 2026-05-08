@@ -1,0 +1,3 @@
+/Users/macbookpro/Desktop/prepEDA2/G5_Ordenacao_EDA2-2026.1/G5_Ordenacao_EDA2-2026.1/build/CMakeFiles/G5_Ordenacao_EDA2_2026_1.dir
+/Users/macbookpro/Desktop/prepEDA2/G5_Ordenacao_EDA2-2026.1/G5_Ordenacao_EDA2-2026.1/build/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Desktop/prepEDA2/G5_Ordenacao_EDA2-2026.1/G5_Ordenacao_EDA2-2026.1/build/CMakeFiles/rebuild_cache.dir
