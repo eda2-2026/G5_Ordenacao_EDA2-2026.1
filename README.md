@@ -25,11 +25,35 @@ a listas de nomes completos (nome, nome do meio e sobrenome):
 O programa gera um dataset de nomes brasileiros aleatórios com a quantidade
 definida pelo usuário, ordena com cada algoritmo e compara o tempo de execução.
 
+
 ## Vídeo de Apresentação
+
+[Assista no YouTube](https://www.youtube.com/watch?v=kA77k2KnKZw)
 
 ...
 
 ## Screenshots
+
+### Diagrama UML
+![UML](assets/print1_UML_Diagram.png)
+
+### main.cpp
+![main](assets/print2_main.cpp.png)
+
+### RadixSort
+![RadixSort](assets/print3_RadixSort.png)
+
+### MergeSort
+![MergeSort](assets/print4_MergeSort.png)
+
+### DataManager
+![DataManager](assets/print5_DataManager.png)
+
+### PerformerTimer
+![PerformerTimer](assets/print6_PerformerTimer.png)
+
+### Gráfico de Desempenho
+![Grafico](assets/print7_grafico-benchmark-radix-merge.png)
 
 ...
 
