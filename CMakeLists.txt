@@ -7,24 +7,15 @@ include_directories(.)
 include_directories(src)
 
 add_executable(G5_Ordenacao_EDA2_2026_1
-        src/main.cpp
-        src/RadixSort.h
-        src/MergeSort.h
-        src/DataManager.h
-        src/PerformerTimer.h
-        tests/TestRadixSort.cpp
-        tests/TestMergeSort.cpp)
+        src/main.cpp)
 
 add_executable(TestRadixSort
-        tests/TestRadixSort.cpp
-        src/RadixSort.h
-        src/DataManager.h)
+        tests/TestRadixSort.cpp)
 
 add_executable(TestMergeSort
-        tests/TestMergeSort.cpp
-        src/MergeSort.h
-        src/DataManager.h)
- 
+        tests/TestMergeSort.cpp)
+
 find_package(Threads REQUIRED)
 target_link_libraries(G5_Ordenacao_EDA2_2026_1 Threads::Threads)
+target_link_libraries(TestMergeSort Threads::Threads)
  
