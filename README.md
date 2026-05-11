@@ -28,7 +28,7 @@ definida pelo usuário, ordena com cada algoritmo e compara o tempo de execuçã
 
 ## Vídeo de Apresentação
 
-[Assista no YouTube](https://www.youtube.com/watch?v=kA77k2KnKZw)
+[Assista no YouTube](https://www.youtube.com/watch?v=5VnnBj5HtZo)
 
 ...
 
